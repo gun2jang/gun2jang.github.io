@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Imagine Imagine"
+title                    : "Imagine"
 title_separator          : "-"
 subtitle                 : "D" # site tagline that appears below site title in masthead
 name                     : "gun2jang"
@@ -24,8 +24,8 @@ description              : "An amazing website."
 url                      : "https://gun2jang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/gun2jang/gun2jang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "https://www.google.com/favicon.ico" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "https://www.google.com/favicon.ico" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "No title" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
